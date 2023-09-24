@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "job_category": "Web Development",
+    "image_url": "https://i.ibb.co/PzrbTxh/google-1-1-1.png",
+    "title": "Front End Developer",
+    "company_name": "Google",
+    "location": "Mountain View, CA",
+    "salary": "100,000 - 120,000 year",
+    "job_type": "Full-time",
+    "remote_or_onsite": "Remote",
+    "job_description": "Join Google's web development team to create cutting-edge user interfaces for our products...",
+    "responsibilities": [
+      "Develop responsive and interactive front-end web applications",
+      "Collaborate with designers to implement pixel-perfect UI/UX",
+      "Optimize web performance for speed and scalability",
+      "Stay updated with the latest web technologies and best practices"
+    ],
+    "education_qualification": "Bachelor's degree in Computer Science or equivalent",
+    "experiences": [
+      "3+ years of front-end development experience",
+      "Proficiency in HTML, CSS, and JavaScript",
+      "Experience with modern front-end frameworks (e.g., React, Angular, or Vue)"
+    ],
+    "contact_information": {
+      "email": "jobs@google.com",
+      "phone": "+1-123-456-7890",
+      "website": "https://www.google.com/careers/",
+      "address": "1600 Amphitheatre Parkway, Mountain View, CA 94043"
+    }
+  },
+  {
+    "id": 2,
+    "job_category": "Web Development",
+    "image_url": "https://i.ibb.co/yY5x9v8/netflix.png",
+    "title": "Full Stack Developer",
+    "company_name": "Netflix",
+    "location": "Los Gatos, CA",
+    "salary": "120,000 - 140,000 year",
+    "job_type": "Full-time",
+    "remote_or_onsite": "Onsite",
+    "job_description": "Netflix is looking for a Full Stack Developer to build innovative web applications for our streaming platform...",
+    "responsibilities": [
+      "Develop and maintain both front-end and back-end components of web applications",
+      "Implement user-friendly and responsive UI/UX",
+      "Collaborate with cross-functional teams to improve product features",
+      "Optimize web performance and security"
+    ],
+    "education_qualification": "Bachelor's degree in Computer Science or related field",
+    "experiences": [
+      "4+ years of web development experience",
+      "Proficiency in JavaScript, Node.js, and SQL databases",
+      "Experience with cloud platforms (e.g., AWS, Azure)"
+    ],
+    "contact_information": {
+      "email": "jobs@netflix.com",
+      "phone": "+1-234-567-8901",
+      "website": "https://jobs.netflix.com/",
+      "address": "100 Winchester Circle, Los Gatos, CA 95032"
+    }
+  },
+  {
+    "id": 3,
+    "job_category": "Web Development",
+    "image_url": "https://i.ibb.co/qkHM8Dp/tesla.png",
+    "title": "Web Application Developer",
+    "company_name": "Tesla",
+    "location": "Palo Alto, CA",
+    "salary": "110,000 - 130,000 year",
+    "job_type": "Full-time",
+    "remote_or_onsite": "Onsite",
+    "job_description": "Join Tesla's web development team to create innovative web applications for electric vehicles...",
+    "responsibilities": [
+      "Design and develop web applications for vehicle control and monitoring",
+      "Collaborate with hardware and software teams to integrate web interfaces",
+      "Ensure data security and real-time performance for web applications",
+      "Stay up-to-date with automotive and web development trends"
+    ],
+    "education_qualification": "Bachelor's degree in Computer Science or related field",
+    "experiences": [
+      "3+ years of web application development experience",
+      "Proficiency in web technologies (HTML, CSS, JavaScript)",
+      "Experience with real-time web technologies (e.g., WebSockets)"
+    ],
+    "contact_information": {
+      "email": "jobs@tesla.com",
+      "phone": "+1-345-678-9012",
+      "website": "https://www.tesla.com/careers",
+      "address": "3500 Deer Creek Road, Palo Alto, CA 94304"
+    }
+  },
+  {
+    "id": 4,
+    "job_category": "Web Development",
+    "image_url": "https://i.ibb.co/5sncwZm/Apple-Logo-PNG-Photos.png",
+    "title": "Full Stack Web Developer",
+    "company_name": "Apple",
+    "location": "Cupertino, CA",
+    "salary": "105,000 - 125,000 year",
+    "job_type": "Full-time",
+    "remote_or_onsite": "Onsite",
+    "job_description": "Apple is hiring a Web Developer to work on innovative web projects for our products...",
+    "responsibilities": [
+      "Develop and maintain web applications for Apple's online services",
+      "Collaborate with design and engineering teams to deliver top-notch user experiences",
+      "Optimize web performance for various Apple devices",
+      "Stay current with web development trends and technologies"
+    ],
+    "education_qualification": "Bachelor's degree in Computer Science or related field",
+    "experiences": [
+      "3+ years of web development experience",
+      "Proficiency in HTML, CSS, and JavaScript",
+      "Experience with responsive web design"
+    ],
+    "contact_information": {
+      "email": "jobs@apple.com",
+      "phone": "+1-456-789-0123",
+      "website": "https://www.apple.com/jobs/",
+      "address": "1 Apple Park Way, Cupertino, CA 95014"
+    }
+  },
+  {
+    "id": 5,
+    "job_category": "Web Development",
+    "image_url": "https://i.ibb.co/q7H4g4f/58480fd7cef1014c0b5e4943.png",
+    "title": "Full Stack Web Developer",
+    "company_name": "Microsoft",
+    "location": "Redmond, WA",
+    "salary": "110,000 - 130,000 year",
+    "job_type": "Full-time",
+    "remote_or_onsite": "Remote",
+    "job_description": "Microsoft is seeking a Full Stack Web Developer to build web applications and services...",
+    "responsibilities": [
+      "Develop and maintain both front-end and back-end components of web applications",
+      "Collaborate with cross-functional teams to deliver scalable and secure solutions",
+      "Optimize web performance and troubleshoot issues",
+      "Stay updated with Microsoft's development tools and technologies"
+    ],
+    "education_qualification": "Bachelor's degree in Computer Science or related field",
+    "experiences": [
+      "4+ years of web development experience",
+      "Proficiency in JavaScript, Node.js, and .NET technologies",
+      "Experience with cloud services (e.g., Azure)"
+    ],
+    "contact_information": {
+      "email": "jobs@microsoft.com",
+      "phone": "+1-567-890-1234",
+      "website": "https://careers.microsoft.com/",
+      "address": "One Microsoft Way, Redmond, WA 98052"
+    }
+  },
+  {
+    "id": 6,
+    "job_category": "Web Development",
+    "image_url": "https://i.ibb.co/wCBC1V5/youtube-logo-png-picture-2.png",
+    "title": "Web Developer",
+    "company_name": "Facebook",
+    "location": "Menlo Park, CA",
+    "salary": "115,000 - 135,000 year",
+    "job_type": "Full-time",
+    "remote_or_onsite": "Onsite",
+    "job_description": "Facebook is looking for a Web Developer to work on exciting web projects and user experiences...",
+    "responsibilities": [
+      "Develop and maintain web applications for Facebook's platform",
+      "Collaborate with cross-functional teams to design and implement new features",
+      "Optimize web performance and user engagement",
+      "Stay updated with web development trends and technologies"
+    ],
+    "education_qualification": "Bachelor's degree in Computer Science or related field",
+    "experiences": [
+      "3+ years of web development experience",
+      "Proficiency in HTML, CSS, and JavaScript",
+      "Experience with social media integrations is a plus"
+    ],
+    "contact_information": {
+      "email": "jobs@facebook.com",
+      "phone": "+1-678-901-2345",
+      "website": "https://www.facebook.com/careers/",
+      "address": "1 Hacker Way, Menlo Park, CA 94025"
+    }
+  }
+]
