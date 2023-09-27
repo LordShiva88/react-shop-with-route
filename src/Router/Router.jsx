@@ -5,6 +5,7 @@ import Home from "../Pages/Home/Home";
 import AppliedJobs from "../Pages/AppliedJobs/AppliedJobs";
 import Shop from "../Pages/Shop/Shop";
 import JobDetails from "../Components/FeaturedJobs/JobDetails";
+import Cart from "../Pages/Cart/Cart";
 
 const Router = createBrowserRouter([
   {
@@ -19,17 +20,22 @@ const Router = createBrowserRouter([
       },
       {
         path: '/applied',
-        element: <AppliedJobs></AppliedJobs>
+        element: <AppliedJobs></AppliedJobs>,
+        loader: ()=>fetch('../Jobs.json')
       },
       {
         path: '/shop',
         element:<Shop></Shop>
       },
       {
+        path: '/cart',
+        element:<Cart></Cart>,
+        loader: ()=>fetch('../Jobs.json')
+      },
+      {
         path: '/job/:id',
         element: <JobDetails></JobDetails>,
         loader: ()=>fetch('../Jobs.json')
-
       }
     ]
   }

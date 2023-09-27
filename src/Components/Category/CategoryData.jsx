@@ -3,7 +3,7 @@
 const CategoryData = ({category}) => {
   const {category_name,logo,availability} = category;
   return (
-    <div className="p-10 bg-base-200 text-center shadow-md">
+    <div className="p-10 bg-teal-50 text-center shadow-md">
       <div className="flex justify-center">
         <img src={logo} alt="" />
       </div>

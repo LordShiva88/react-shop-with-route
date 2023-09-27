@@ -33,10 +33,20 @@ const Navbar = () => {
           Shop
         </NavLink>
       </li>
+      <li>
+        <NavLink
+          to="/cart"
+          className={({ isActive, isPending }) =>
+            isPending ? "pending" : isActive ? "text-green-300 underline" : ""
+          }
+        >
+          Cart
+        </NavLink>
+      </li>
     </>
   );
   return (
-    <nav className="bg-base-200">
+    <nav className="bg-[#9873FF0A]">
       <div className="navbar container mx-auto">
         <div className="navbar-start">
           <div className="dropdown">

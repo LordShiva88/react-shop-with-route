@@ -1,7 +1,7 @@
 import image from "../../assets/WhatsApp_Image_2023-06-05_at_20.34.44-removebg-preview (1).png";
 const Banner = () => {
   return (
-    <div className="mb-10 bg-base-200 ">
+    <div className="mb-10 bg-[#9873FF0A]">
       <div className="flex flex-col lg:flex-row-reverse container mx-auto items-center justify-between">
         <div className="flex-1">
           <h1 className="text-5xl font-bold">

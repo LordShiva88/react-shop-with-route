@@ -1,8 +1,12 @@
+import { Helmet } from "react-helmet";
 import { Link } from "react-router-dom";
 
 const ErrrPage = () => {
   return (
     <div>
+      <Helmet>
+        <title>Career Hub | Error</title>
+      </Helmet>
       <div className="grid h-screen px-4 bg-white place-content-center">
         <div className="text-center">
           <svg

@@ -178,5 +178,125 @@
       "website": "https://www.facebook.com/careers/",
       "address": "1 Hacker Way, Menlo Park, CA 94025"
     }
+  },
+  {
+    "id": 7,
+    "job_category": "Web Development",
+    "image_url": "https://i.ibb.co/GtDRzzM/amazon-png-logo-vector-1.png",
+    "title": "Front End Developer",
+    "company_name": "Amazon",
+    "location": "Seattle, WA",
+    "salary": "100,000 - 120,000 year",
+    "job_type": "Full-time",
+    "remote_or_onsite": "Remote",
+    "job_description": "Join Amazon's web development team to create user-friendly and responsive front-end web applications for e-commerce...",
+    "responsibilities": [
+      "Develop interactive and high-performance front-end web applications",
+      "Collaborate with design and product teams to ensure a seamless user experience",
+      "Optimize web applications for scalability and cross-browser compatibility",
+      "Stay updated with the latest web development trends and tools"
+    ],
+    "education_qualification": "Bachelor's degree in Computer Science or equivalent",
+    "experiences": [
+      "3+ years of front-end development experience",
+      "Proficiency in HTML, CSS, and JavaScript",
+      "Experience with front-end frameworks (e.g., React, Angular, or Vue)"
+    ],
+    "contact_information": {
+      "email": "jobs@amazon.com",
+      "phone": "+1-123-456-7890",
+      "website": "https://www.amazon.jobs/",
+      "address": "410 Terry Ave N, Seattle, WA 98109"
+    }
+  },
+  {
+    "id": 8,
+    "job_category": "Web Development",
+    "image_url": "https://i.ibb.co/YcsQX8X/Airbnb-Logo-B-lo-svg.png",
+    "title": "Backend Developer",
+    "company_name": "Airbnb",
+    "location": "San Francisco, CA",
+    "salary": "120,000 - 140,000 year",
+    "job_type": "Full-time",
+    "remote_or_onsite": "Onsite",
+    "job_description": "Airbnb is seeking a Backend Developer to work on the server-side components of our online marketplace...",
+    "responsibilities": [
+      "Develop and maintain server-side components of web applications",
+      "Optimize backend services for performance and scalability",
+      "Collaborate with cross-functional teams to implement new features and services",
+      "Stay updated with backend development best practices and technologies"
+    ],
+    "education_qualification": "Bachelor's degree in Computer Science or related field",
+    "experiences": [
+      "4+ years of backend development experience",
+      "Proficiency in Python, Node.js, or Ruby",
+      "Experience with database systems (e.g., MySQL, PostgreSQL)"
+    ],
+    "contact_information": {
+      "email": "jobs@airbnb.com",
+      "phone": "+1-234-567-8901",
+      "website": "https://careers.airbnb.com/",
+      "address": "888 Brannan St, San Francisco, CA 94103"
+    }
+  },
+  {
+    "id": 9,
+    "job_category": "Web Development",
+    "image_url": "https://i.ibb.co/yXQh4Mj/Uber-logo-2018.png",
+    "title": "Full Stack Web Developer",
+    "company_name": "Uber",
+    "location": "San Francisco, CA",
+    "salary": "110,000 - 130,000 year",
+    "job_type": "Full-time",
+    "remote_or_onsite": "Onsite",
+    "job_description": "Join Uber's web development team to work on innovative solutions for transportation and mobility...",
+    "responsibilities": [
+      "Develop and maintain both front-end and back-end components of web applications",
+      "Collaborate with product teams to deliver new features and services",
+      "Optimize web applications for performance and scalability",
+      "Stay updated with web development tools and technologies"
+    ],
+    "education_qualification": "Bachelor's degree in Computer Science or related field",
+    "experiences": [
+      "3+ years of web development experience",
+      "Proficiency in JavaScript, Node.js, and front-end frameworks",
+      "Experience with microservices architecture is a plus"
+    ],
+    "contact_information": {
+      "email": "jobs@uber.com",
+      "phone": "+1-345-678-9012",
+      "website": "https://www.uber.com/us/en/careers/",
+      "address": "1455 Market St, San Francisco, CA 94103"
+    }
+  },
+  {
+    "id": 10,
+    "job_category": "Web Development",
+    "image_url": "https://i.ibb.co/z4m1m07/pngtree-twitter-social-media-round-icon-png-image-6315985.png",
+    "title": "Front End Engineer",
+    "company_name": "Twitter",
+    "location": "San Francisco, CA",
+    "salary": "105,000 - 125,000 year",
+    "job_type": "Full-time",
+    "remote_or_onsite": "Remote",
+    "job_description": "Twitter is hiring a Front End Engineer to work on the user interface and interactions of our social media platform...",
+    "responsibilities": [
+      "Design and develop user-friendly and responsive front-end web interfaces",
+      "Collaborate with design and product teams to implement new features",
+      "Optimize web performance and ensure cross-browser compatibility",
+      "Stay updated with web design and development trends"
+    ],
+    "education_qualification": "Bachelor's degree in Computer Science or related field",
+    "experiences": [
+      "3+ years of front-end development experience",
+      "Proficiency in HTML, CSS, and JavaScript",
+      "Experience with web accessibility standards is a plus"
+    ],
+    "contact_information": {
+      "email": "jobs@twitter.com",
+      "phone": "+1-456-789-0123",
+      "website": "https://careers.twitter.com/",
+      "address": "1355 Market St, San Francisco, CA 94103"
+    }
   }
 ]
